@@ -1,0 +1,22 @@
+2025-02-02 23:13:08,830 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out. (read timeout=5)
+2025-02-02 23:13:13,977 - Error fetching current price: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out. (read timeout=5)
+2025-02-02 23:17:16,318 - Error loading models: [Errno 2] No such file or directory: 'lstm_model.pkl'
+2025-02-03 08:37:10,141 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out. (read timeout=5)
+2025-02-03 08:38:19,595 - Error fetching current price: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out. (read timeout=5)
+2025-02-03 08:39:27,488 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out. (read timeout=5)
+2025-02-03 08:42:46,052 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out. (read timeout=5)
+2025-02-03 08:46:59,043 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Read timed out.
+2025-02-03 08:47:16,745 - Error loading models: No module named 'keras.src.saving.pickle_utils'
+2025-02-03 08:47:18,762 - From C:\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-02-03 08:47:58,125 - Error loading models: No module named 'keras.src.saving.pickle_utils'
+2025-02-03 08:58:38,158 - Error loading models: No module named 'keras.src.saving.pickle_utils'
+2025-02-03 08:58:39,428 - From C:\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-02-03 09:22:45,362 - Error loading models: No module named 'keras.src.saving.pickle_utils'
+2025-02-03 09:22:46,606 - From C:\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-02-03 10:06:45,640 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/market/candles?symbol=BTC-USDT&type=15min (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000266842ABCB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-03 10:06:47,685 - Error fetching current price: HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/market/orderbook/level1?symbol=BTC-USDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026685523620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-03 10:06:54,161 - Error fetching market data: HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/market/candles?symbol=BTC-USDT&type=15min (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026686563DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-03 10:06:56,224 - Error fetching current price: HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/market/orderbook/level1?symbol=BTC-USDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000266854565A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
